@@ -9,10 +9,12 @@ An implementation of a chained hash table for strings
 HashTable <name>;
 ```
 
+
 - Destructor
 
     Destroys a given hash table once it is no longer in use.
 Called automatically.
+
 
 - Insert Operation
 
@@ -20,6 +22,7 @@ Called automatically.
 ```
 <name>.insert(<word>)
 ```
+
 
 - Overload <<
 
